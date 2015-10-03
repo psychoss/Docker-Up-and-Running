@@ -1,8 +1,4 @@
-
-
-Docker是一种创建程序封装部署包的技术。它能帮助开发者，建立一套适合团队协作的工作流，并且极大的简化产品的部署工作。
-
-## Docker 
+## Docker 权威指南
 * [安装Docker](http://www.mean101.com/docker-installing-docker/)
 	* [重要的技术术语](http://www.mean101.com/docker-important-terminology/)
 	* [Docker 客户端](http://www.mean101.com/docker-docker-client/)
@@ -20,3 +16,4 @@ Docker是一种创建程序封装部署包的技术。它能帮助开发者，�
 	* [测试配置](http://www.mean101.com/docker-test-the-setup/)
 * [Docker 镜像](http://www.mean101.com/docker-image/)
 	* [剖析Dockerfile](http://www.mean101.com/docker-anatomy-of-a-dockerfile/)
+	* [建立一个镜像](http://www.mean101.com/docker-building-an-image/)
